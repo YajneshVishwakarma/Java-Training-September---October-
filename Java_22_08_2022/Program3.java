@@ -1,4 +1,3 @@
-package Java_22_08_2022;
 
 class Third
 {
