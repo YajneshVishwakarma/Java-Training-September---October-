@@ -1,6 +1,6 @@
-package Java_23_08_2022;//Narrowing
+//Narrowing
 
-class Fifth
+class Program5
 {
 	public static void main(String[] args)
 	{
