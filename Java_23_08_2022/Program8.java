@@ -1,4 +1,3 @@
-package Java_23_08_2022;
 
 class Eight
 {
