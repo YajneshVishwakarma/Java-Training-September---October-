@@ -1,6 +1,6 @@
 package Java_23_08_2022;
 
-class Sixth
+class Program6
 {
 	public static void main(String[] args)
 	{
