@@ -1,4 +1,4 @@
-package Java_24_08_2022;
+package Java_September_October.src.Java_24_08_2022;
 
 import java.util.Scanner;
 
@@ -18,5 +18,6 @@ public class Program13 {
         {
             System.out.println("The number "+num+" is not Divisible by 3 & 5");
         }
+
     }
 }
