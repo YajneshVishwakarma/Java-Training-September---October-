@@ -1,8 +1,5 @@
 
-import static java.lang.System.out;
-
-
-public class First {
+public class Program1 {
 
     public static void main(String[] args) {
         out.println("My Details");
