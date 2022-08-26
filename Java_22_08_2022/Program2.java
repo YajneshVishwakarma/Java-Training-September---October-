@@ -3,8 +3,6 @@ class Program2
 {
 	public static void main(String[] args)
 	{
-
-
 		String name = "amish";
 		int age = 22;
 
