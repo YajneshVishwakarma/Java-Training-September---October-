@@ -1,6 +1,5 @@
-package Java_23_08_2022;
 
-class Nine
+class Program9
 {
 	public static void main(String[] args)
 	{
