@@ -1,6 +1,6 @@
-package Java_23_08_2022;//Widening
+//Widening
 
-class Fourth
+class Program4
 {
 	public static void main(String[] args)
 	{
