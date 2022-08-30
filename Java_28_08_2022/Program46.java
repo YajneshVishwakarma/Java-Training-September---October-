@@ -1,4 +1,3 @@
-package Java_September_October.src.Java_28_08_2022;
 
 class Parent
 {
