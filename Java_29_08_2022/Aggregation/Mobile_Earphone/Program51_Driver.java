@@ -1,5 +1,3 @@
-package Java_September_October.src.Java_29_08_2022.Aggregation.Mobile_Earphone;
-
 import java.util.Scanner;
 
 public class Program51_Driver {
