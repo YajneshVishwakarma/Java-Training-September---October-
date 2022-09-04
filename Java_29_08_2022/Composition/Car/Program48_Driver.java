@@ -1,4 +1,3 @@
-package Java_September_October.src.Java_29_08_2022.Composition.Car;
 
 public class Program48_Driver {
     public static void main(String[] args) {
