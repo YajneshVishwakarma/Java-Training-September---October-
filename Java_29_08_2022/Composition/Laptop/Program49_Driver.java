@@ -1,4 +1,3 @@
-package Java_September_October.src.Java_29_08_2022.Composition.Laptop;
 
 import java.util.Scanner;
 
