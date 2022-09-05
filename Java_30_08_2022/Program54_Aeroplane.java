@@ -1,4 +1,3 @@
-package Java_September_October.src.Java_30_08_2022;
 
 public class Program54_Aeroplane extends Program54_Vehicle {
     void takeOff() {
