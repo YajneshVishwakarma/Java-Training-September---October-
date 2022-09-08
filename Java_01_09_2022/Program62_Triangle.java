@@ -1,4 +1,3 @@
-package Java_September_October.src.Java_01_09_2022;
 
 public class Program62_Triangle extends Program62_Shape{
     public void draw() {
