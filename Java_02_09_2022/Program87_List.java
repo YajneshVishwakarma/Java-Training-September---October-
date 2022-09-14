@@ -1,5 +1,3 @@
-package Java_September_October.src.Java_02_09_2022;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
