@@ -1,5 +1,3 @@
-package Java_September_October.src.Java_01_09_2022;
-
 import java.util.Objects;
 
 public class Program68_Hash {
