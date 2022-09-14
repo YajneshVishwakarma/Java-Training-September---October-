@@ -1,5 +1,3 @@
-package Java_September_October.src.Java_02_09_2022;
-
 public class Program69_String {
     public static void main(String[] args) {
 
