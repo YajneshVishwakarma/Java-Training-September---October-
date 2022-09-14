@@ -1,5 +1,3 @@
-package Java_September_October.src.Java_02_09_2022;
-
 public class Program70_StringBuffer {
     public static void main(String[] args) {
         StringBuffer sb1 = new StringBuffer("Pushvin");
